@@ -1,0 +1,122 @@
+body{
+    font-weight: 435;
+    font-family: GrowwSans;
+}
+.MainColumn{
+    display: flex;
+    padding-bottom: 50px;
+}
+.Title{
+    padding-left: 250px;
+    font-size: 96px;
+    font-weight: 435;
+    color: rgb(62, 59, 59);
+}
+.SubTitle{
+    padding-left: 250px;
+    font-size: 20px;
+    font-weight: 435;
+    color: rgb(139, 134, 134);
+}
+.RightContainer{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.smallintro
+{
+    position: relative;
+    padding-top: 30px;
+    margin-right:70%;
+    font-size: 16px;
+    color: rgb(139, 134, 134);
+    font-weight: 435;
+}
+.index{
+    font-size:30px;
+    color: rgb(65, 65, 109);
+    position: relative;
+    padding-top: 30px;
+    margin-right:80%;
+}
+Container3{
+    display: flex;
+    flex-direction: column;
+}
+.boxcontainer{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nifty{
+    position: relative;
+    padding-top: 30px;
+    width: 220px;
+    height: 90px;
+    padding: 10px;
+    border: 1px solid rgb(158, 154, 154);   
+    border-radius: 10px;
+    cursor: pointer;
+}
+.nifty:hover{
+    scale:1.1;
+    border: 3px solid rgb(158, 154, 154);   
+}
+.box2:hover{
+    scale:1.1;
+    border: 3px solid rgb(158, 154, 154);   
+}
+.box2{
+    position: relative;
+    padding-top: 30px;
+    width: 220px;
+    height: 200px;
+    padding: 10px;
+    border: 1px solid rgb(158, 154, 154);   
+    border-radius: 10px;
+}
+.fontbox{
+    font-size: 17px;
+    font-weight: 435;
+    color: rgb(139, 134, 134);
+}
+.lowerfontbox1{
+    padding-top: 5px;
+    font-size: 13px;
+    font-weight: 435;
+    color: rgb(139, 134, 134);
+}
+.lowerfontbox2{
+    padding-top: 3px;
+    font-size: 13px;
+    font-weight: 435;
+    color: rgb(243, 0, 0);
+}
+.lowerfontbox3{
+    padding-top: 3px;
+    font-size: 13px;
+    font-weight: 435;
+    color: rgb(0, 255, 55);
+}
+.All{
+    padding-top: 25px;
+    font-size: 17px;
+    font-weight: 435;
+    color: rgb(73, 126, 180);
+    cursor: pointer;
+}
+.All:hover{
+    text-decoration: underline;
+}
+.most{
+    font-size:25px;
+    color:rgb(65, 65, 109);
+    position: relative;
+    padding-top: 30px;
+    margin-right:65%;
+}
+.Container3sq{
+    justify-content: space-evenly;
+}
+

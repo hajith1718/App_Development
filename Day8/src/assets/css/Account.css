@@ -1,0 +1,13 @@
+.MainContainer
+{
+    display: flex;
+    flex-direction: row;
+}
+.Right{
+    
+}
+.Box{
+    display: flex;
+    flex-direction: column;
+    
+}

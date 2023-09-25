@@ -1,0 +1,22 @@
+.about-container {
+    padding: 150px;
+    background-color: rgb(187, 217, 227);
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h2 {
+    color: #000000;
+    margin-top: -5%;margin-left: 10%;
+    margin-right:10%; 
+    font-size: 50px;
+  }
+  
+  p {
+    font-size: 19px;
+    line-height: 1.5;
+    color: #4c3d3d;
+  }
+  p1 {
+    font-size: 30px;
+  }
