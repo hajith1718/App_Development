@@ -1,0 +1,10 @@
+.Dashboard{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+
+}
+.User{
+    padding-left: 100px;    
+    padding-top: 70px;    
+}

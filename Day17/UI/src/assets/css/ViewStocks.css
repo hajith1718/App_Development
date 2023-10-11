@@ -1,0 +1,9 @@
+.MainColumn{
+    display: flex;
+    padding-bottom: 50px;
+}
+.RightContainer{
+    display: flex;
+    flex-direction: column;
+    
+}

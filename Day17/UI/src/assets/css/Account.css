@@ -1,0 +1,25 @@
+.account-info {
+    border: 1px solid #ccc;
+    background-color: #9edebc;
+    border-radius: 10px;
+    padding:200px;
+    width: 100%;
+  }
+  
+  h1 {
+    font-size: 50px;
+    color: #333;
+  }
+  
+  p {
+    font-size: 30px;
+    margin: 10px 0;
+  }
+  .Mains{
+    display: flex;
+    
+  }
+  .right{
+    margin-top: 10px;
+    margin-left: 200px;
+  }
